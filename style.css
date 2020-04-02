@@ -1,0 +1,276 @@
+html, body {
+	padding: 0;
+	margin: 0;
+	overflow-x:hidden; 
+}
+
+.logotip {
+	text-decoration: none;
+	font-family: 'Revalia', cursive;
+	color: #fff;
+	font-size: 36px;
+    border-color: #6DAEDB;
+}
+
+.head {
+	text-decoration: none;
+	height: 1875px;
+	background-image: url(https://github.com/anton-kachur/ant-container.github.io/blob/master/time-lapse-photo-of-stars-on-night-924824.jpg?raw=true);
+}
+
+.container img {
+	padding-right: 0px;
+}
+
+.btn-group .dropdown-toggle {
+	width: 46px;
+	height: 44px;
+	padding-top: 8px;
+	background-color: transparent; 
+	border-color: transparent;
+
+}
+
+.head {
+	padding-top: 70px;
+}
+
+.main-topics {
+	margin-top: 68px;
+}
+
+.main-topics img {
+	border-radius: 18px;
+}
+
+.card-img-overlay {
+	padding-top: 0px;
+	padding-left: 222px;
+}
+
+.card-text {
+	font-family: 'Rubik', sans-serif;
+	font-weight: Regular;
+	font-size: 13px;
+	border-radius: 18px;
+	width: 139px;
+	height: 42px;
+	text-align: center;
+	padding-top: 10px;
+	background: rgba(255, 255, 255, 0.85);
+}
+
+.main-topics .row {
+	margin-top: 18px;
+	justify-content: center;
+}
+
+.main-topics .row-md-3 {
+	
+	margin-top: 8px;
+}
+
+.row-4 img{
+	padding-right: 4px;
+}
+
+.row-4 {
+	padding-top: 8px;
+}
+
+.main-topics .column {
+	padding: 4px;
+}
+
+.main-topics .c-1 {
+	margin-left: -4px;
+}
+
+.row-3 {
+	margin-top: -19px;
+	padding: 4px;
+}
+
+h2 {
+	text-align: center;
+	color: #000000;
+	font-family: 'Rubik', sans-serif;
+	font-weight: Bold;
+	font-size: 24px;
+}
+
+h3 {
+	text-align: center;
+	color: #000000;
+	font-family: 'Rubik', sans-serif;
+	font-weight: Regular;
+	font-size: 18px;
+}
+
+.btn {
+	width: 250px;
+	height: 100px;
+	border-color: #FFFFFF;
+	background-color: #FFFFFF;
+	border-width: 3px;
+	border-radius: 14px; 
+	margin-top: 68px;
+	padding-top: 17px;
+}
+
+.footer {
+	height: 300px;
+	background-color: #F1F1F1;
+}
+
+.footer h2 {
+	padding-top: 96px;
+}
+
+.footer h3 {
+	padding-top: 21px;
+}
+
+.copyright {
+	text-align: center;
+	padding-top: 64px;
+	font-family: 'Rubik', sans-serif;
+	font-weight: Medium;
+	font-size: 14px;
+}
+
+@media (min-width: 1019px) and (max-width: 1199px) {
+	.head {
+		height: 2780px;
+		transition-duration: 0.5s;
+	}
+	
+	.main-topics .c-1 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-2 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-3 {
+		margin-top: -8px;
+	}
+	
+	
+	.r-1 {
+		margin-left: 370px;
+	}
+	
+	.r-2 {
+		margin-top: -538px;
+		margin-left: 0px;
+	}
+	
+	.r-3 {
+		margin-left: 0px;
+	}
+	
+	.r-22 {
+		margin-top: -16px;
+	}
+	
+	.r-23 {
+		margin-top: -1px;
+	}
+	
+	.btn {
+		margin-top: 68px;
+	}
+	
+}
+
+@media (min-width: 991px) and (max-width: 1019px) {
+	.head {
+		height: 3300px;
+		transition-duration: 0.5s;
+	}
+	
+	.main-topics .c-1 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-2 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-3 {
+		margin-top: -8px;
+	}	
+}
+
+@media (min-width: 810px) and (max-width: 991px) {
+	.head {
+		height: 4386px;
+		transition-duration: 0.5s;
+	}
+	
+	.main-topics .c-1 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-2 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-3 {
+		margin-top: -8px;
+	}
+	
+	
+	.r-23 {
+		margin-top: 2px;
+	}
+	
+}
+
+@media (min-width: 400px) and (max-width: 810px) {
+	.head {
+		height: 4750px;
+		transition-duration: 0.5s;
+	}
+	
+	.main-topics .c-1 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-2 {
+		margin-top: -8px;
+	}
+	
+	.main-topics .c-3 {
+		margin-top: -8px;
+	}
+	
+	.r-21 {
+		margin-left: 10px;
+	}
+	
+	.r-22 {
+		margin-top: -1px;
+	}
+	
+	.btn-group img {
+		margin-right: 40px;
+	}
+	
+	.logotip {
+		margin-left: 36px;
+	}
+	
+	.r-23 {
+		margin-top: -1px;
+	}
+	
+	.btn {
+	
+	margin-top: 68px;
+
+	}
+	
+}
